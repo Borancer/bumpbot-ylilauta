@@ -1,0 +1,14 @@
+{
+ "infos":[
+         {"email":"testman"},
+         {"password":"securepassword"}
+        ],
+"address": [
+  {"urli":"https://ylilauta.org"},
+  {"lanka":"https://ylilauta.org/palaute/76420925"}
+  ],
+"time": [
+  {"toisto":"200"},
+  {"bumppiaika":"10"}
+  ]
+}
